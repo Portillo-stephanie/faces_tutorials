@@ -1,4 +1,4 @@
-# tutorial_face
+# Flashing Happy And Sad Face Tuto
 
 ## Start - Part 1
 
@@ -7,9 +7,7 @@ Use the basic forever block
 basic.forever(function () {})
 ```
 
-
-
-## Part 2
+### Part 2
 
 Add 10 show Leds block
  ```blocks
