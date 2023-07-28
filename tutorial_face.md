@@ -9,7 +9,7 @@ basic.forever(function () {})
 
 
 
-### Part 2
+## Part 2
 
 Add 10 show Leds block
  ```blocks
