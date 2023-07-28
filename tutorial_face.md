@@ -100,7 +100,7 @@ basic.forever(function () {
 
 
 
-#### Part 3
+## Part 3
 
 Draw the smiley face starting with a blank LED block, then add the eyes, nose, and finish with the mouth. 
 
@@ -192,7 +192,7 @@ basic.forever(function () {
 
 
 
-###### Part 4
+## Part 4
 
 Next, have the face slowly diappear by first deleting the mouth, then nose and eyes until you get a blank LED. 
 ```blocks
@@ -278,7 +278,7 @@ basic.forever(function () {
 
 
 
-###### Part 5
+## Part 5
 
 After, slowly create the sad face by adding the eyes, then nose, and sad mouth. 
 ```blocks
